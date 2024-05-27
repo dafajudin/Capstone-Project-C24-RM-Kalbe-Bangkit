@@ -10,3 +10,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Official repository (still unpublic) from Kalbe x Bangkit Capstone here https://github.com/Kalbe-x-Bangkit/C24-RM-Kalbe-Bangkit
